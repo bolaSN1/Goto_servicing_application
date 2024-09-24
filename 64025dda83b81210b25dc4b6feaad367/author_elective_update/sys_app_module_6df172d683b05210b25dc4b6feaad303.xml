@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Goto Servicing Task">9fc73d1283bc1210b25dc4b6feaad3fb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1138634_goto_s_0_goto_servicing_task</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 20:13:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6df172d683b05210b25dc4b6feaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>sys_app_module_6df172d683b05210b25dc4b6feaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 20:13:05</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</application>
+        <file_path/>
+        <instance_id>24279c7f1b250ad8168f4089bd4bcb9e</instance_id>
+        <instance_name>dev261579</instance_name>
+        <name>sys_app_module_6df172d683b05210b25dc4b6feaad303</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Goto Servicing Task">9fc73d1283bc1210b25dc4b6feaad3fb</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1138634_goto_s_0_goto_servicing_task</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 20:13:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6df172d683b05210b25dc4b6feaad303</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package><sys_policy/><sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope><sys_update_name>sys_app_module_6df172d683b05210b25dc4b6feaad303</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 20:13:05</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2086209037</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>6c025dda83b81210b25dc4b6feaad377</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 20:13:05</sys_created_on>
+        <sys_id>86b2b61a83b05210b25dc4b6feaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19225aa87ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 20:13:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8ab2b61a36b052103e913c84889e10a0</update_guid>
+        <update_guid_history>8ab2b61a36b052103e913c84889e10a0:-2086209037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">e103b2d683b05210b25dc4b6feaad3fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 20:14:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4144717d4d6a44c48409024497ccdb90</sys_id>
+        <sys_metadata>6df172d683b05210b25dc4b6feaad303</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">840cf5fc05874fa48992790fbc824ba4</sys_scope_delete>
+        <sys_update_name>sys_app_module_6df172d683b05210b25dc4b6feaad303</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6df172d683b05210b25dc4b6feaad303">86b2b61a83b05210b25dc4b6feaad3a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 20:14:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

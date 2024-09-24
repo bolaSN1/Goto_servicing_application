@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>0</order>
+        <published_ref/>
+        <question display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 13:35:30</sys_created_on>
+        <sys_id>82b7599283f81210b25dc4b6feaad3ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>question_choice_82b7599283f81210b25dc4b6feaad3ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 13:35:30</sys_updated_on>
+        <text>Technical</text>
+        <value>technical</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=82b7599283f81210b25dc4b6feaad3ce"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</application>
+        <file_path/>
+        <instance_id>24279c7f1b250ad8168f4089bd4bcb9e</instance_id>
+        <instance_name>dev261579</instance_name>
+        <name>question_choice_82b7599283f81210b25dc4b6feaad3ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>0</order><published_ref/><question display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 13:35:30</sys_created_on><sys_id>82b7599283f81210b25dc4b6feaad3ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technical</sys_name><sys_package/><sys_policy/><sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope><sys_update_name>question_choice_82b7599283f81210b25dc4b6feaad3ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 13:35:30</sys_updated_on><text>Technical</text><value>technical</value></question_choice><fx_price action="delete_multiple" query="id=82b7599283f81210b25dc4b6feaad3ce"/></record_update>]]></payload>
+        <payload_hash>84620680</payload_hash>
+        <record_name>Technical</record_name>
+        <reverted_from/>
+        <source>a998e5da833c1210b25dc4b6feaad3b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 14:49:18</sys_created_on>
+        <sys_id>c798211e833c1210b25dc4b6feaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922482172f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 14:49:18</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>8b98211e073c12102a96f10777674c54</update_guid>
+        <update_guid_history>8b98211e073c12102a96f10777674c54:84620680,bd846196133c1210646e2ad16055f7c1:-2054028022,7d8461964f3c121027e0a33a56eedcbf:1037666396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Technical">b46e2116837c1210b25dc4b6feaad3d8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 15:14:32</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>015429267d7040208045498181424a40</sys_id>
+        <sys_metadata>82b7599283f81210b25dc4b6feaad3ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical</sys_name>
+        <sys_package/>
+        <sys_parent display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">840cf5fc05874fa48992790fbc824ba4</sys_scope_delete>
+        <sys_update_name>question_choice_82b7599283f81210b25dc4b6feaad3ce</sys_update_name>
+        <sys_update_version display_value="question_choice_82b7599283f81210b25dc4b6feaad3ce">c798211e833c1210b25dc4b6feaad355</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 15:14:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

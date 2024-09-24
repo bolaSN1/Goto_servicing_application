@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1138634_goto_s_0.agent" name="x_1138634_goto_s_0.agent">3202ddda83b81210b25dc4b6feaad309</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 13:10:42</sys_created_on>
+        <sys_id>ba02ddda83b81210b25dc4b6feaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3202ddda83b81210b25dc4b6feaad309</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ba02ddda83b81210b25dc4b6feaad30a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 13:10:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

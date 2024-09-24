@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 13:35:30</sys_created_on>
+        <sys_id>c6b799d283f81210b25dc4b6feaad32e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Appliances</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>question_choice_c6b799d283f81210b25dc4b6feaad32e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 13:35:30</sys_updated_on>
+        <text>Home Appliances</text>
+        <value>home_appliances</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=c6b799d283f81210b25dc4b6feaad32e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</application>
+        <file_path/>
+        <instance_id>24279c7f1b250ad8168f4089bd4bcb9e</instance_id>
+        <instance_name>dev261579</instance_name>
+        <name>question_choice_c6b799d283f81210b25dc4b6feaad32e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>1</order><published_ref/><question display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 13:35:30</sys_created_on><sys_id>c6b799d283f81210b25dc4b6feaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home Appliances</sys_name><sys_package/><sys_policy/><sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope><sys_update_name>question_choice_c6b799d283f81210b25dc4b6feaad32e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 13:35:30</sys_updated_on><text>Home Appliances</text><value>home_appliances</value></question_choice><fx_price action="delete_multiple" query="id=c6b799d283f81210b25dc4b6feaad32e"/></record_update>]]></payload>
+        <payload_hash>-206836366</payload_hash>
+        <record_name>Home Appliances</record_name>
+        <reverted_from/>
+        <source>a998e5da833c1210b25dc4b6feaad3b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 14:49:18</sys_created_on>
+        <sys_id>8b98211e833c1210b25dc4b6feaad375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192248218890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 14:49:18</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>4f98211e853c12104c0f87ab14419f74</update_guid>
+        <update_guid_history>4f98211e853c12104c0f87ab14419f74:-206836366,b9846196193c12102cf8954dc8645ad2:2004141876,79846196083c1210e95c4d5d21f0ecd0:-2026115046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Home Appliances">786e2116837c1210b25dc4b6feaad3df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 15:14:32</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>0e21fa1dd40746c3843cc50d05fa96e9</sys_id>
+        <sys_metadata>c6b799d283f81210b25dc4b6feaad32e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Appliances</sys_name>
+        <sys_package/>
+        <sys_parent display_value="What Service do you need?">8773dd5a83b81210b25dc4b6feaad3e7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">840cf5fc05874fa48992790fbc824ba4</sys_scope_delete>
+        <sys_update_name>question_choice_c6b799d283f81210b25dc4b6feaad32e</sys_update_name>
+        <sys_update_version display_value="question_choice_c6b799d283f81210b25dc4b6feaad32e">8b98211e833c1210b25dc4b6feaad375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 15:14:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

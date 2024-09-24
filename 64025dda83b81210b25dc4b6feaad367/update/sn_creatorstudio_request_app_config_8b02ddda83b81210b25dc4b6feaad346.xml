@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE">
+        <color>grouped-blue</color>
+        <icon>vacation-outline</icon>
+        <name>Goto Servicing</name>
+        <request_table>x_1138634_goto_s_0_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 13:10:43</sys_created_on>
+        <sys_id>8b02ddda83b81210b25dc4b6feaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Goto Servicing</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_8b02ddda83b81210b25dc4b6feaad346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 13:10:43</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+</record_update>

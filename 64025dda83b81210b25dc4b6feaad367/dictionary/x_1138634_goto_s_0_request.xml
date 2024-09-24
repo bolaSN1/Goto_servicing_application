@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="f8025dda83b81210b25dc4b6feaad37d" extends="sn_creatorstudio_task" label="Goto Servicing Request" max_length="40" name="x_1138634_goto_s_0_request" type="collection"/>
+</database>

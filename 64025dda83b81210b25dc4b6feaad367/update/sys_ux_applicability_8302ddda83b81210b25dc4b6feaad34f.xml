@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1138634_goto_s_0.Goto Servicing Audience</api_name>
+        <description/>
+        <name>Goto Servicing Audience</name>
+        <role_names/>
+        <roles name="x_1138634_goto_s_0.agent">3202ddda83b81210b25dc4b6feaad309</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 13:10:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8302ddda83b81210b25dc4b6feaad34f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Goto Servicing Audience</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>sys_ux_applicability_8302ddda83b81210b25dc4b6feaad34f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 13:10:43</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
