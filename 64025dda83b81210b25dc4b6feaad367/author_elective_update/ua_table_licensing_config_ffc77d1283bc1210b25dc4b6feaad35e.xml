@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1138634_goto_s_0_goto_servicing_task</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 15:55:42</sys_created_on>
+        <sys_id>ffc77d1283bc1210b25dc4b6feaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1138634_goto_s_0_goto_servicing_task</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ffc77d1283bc1210b25dc4b6feaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 15:55:42</sys_updated_on>
+    </ua_table_licensing_config>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</application>
+        <file_path/>
+        <instance_id>24279c7f1b250ad8168f4089bd4bcb9e</instance_id>
+        <instance_name>dev261579</instance_name>
+        <name>ua_table_licensing_config_ffc77d1283bc1210b25dc4b6feaad35e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1138634_goto_s_0_goto_servicing_task</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 15:55:42</sys_created_on>
+        <sys_id>ffc77d1283bc1210b25dc4b6feaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1138634_goto_s_0_goto_servicing_task</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ffc77d1283bc1210b25dc4b6feaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 15:55:42</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>]]></payload>
+        <payload_hash>591512859</payload_hash>
+        <record_name>x_1138634_goto_s_0_goto_servicing_task</record_name>
+        <reverted_from/>
+        <source>546a9357833c1210b25dc4b6feaad330</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 01:40:47</sys_created_on>
+        <sys_id>2b7a5b57833c1210b25dc4b6feaad3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1923649a0930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 01:40:47</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>277a5b57d43c1210772325afb6d9babf</update_guid>
+        <update_guid_history>277a5b57d43c1210772325afb6d9babf:0,d4fc0fd3b9f81210121e07e5044d28a7:-1053050501</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 01:44:50</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>2de8d0731fe643889eac0d71d05f1a10</sys_id>
+        <sys_metadata>ffc77d1283bc1210b25dc4b6feaad35e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1138634_goto_s_0_goto_servicing_task</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">840cf5fc05874fa48992790fbc824ba4</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_ffc77d1283bc1210b25dc4b6feaad35e</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_ffc77d1283bc1210b25dc4b6feaad35e">2b7a5b57833c1210b25dc4b6feaad3bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 01:44:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

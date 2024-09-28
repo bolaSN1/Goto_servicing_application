@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Goto Service Request">d1f916df83b41210b25dc4b6feaad34f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1138634_goto_s_0_request</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 21:06:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd4b1ad383f41210b25dc4b6feaad35c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_update_name>sys_app_module_fd4b1ad383f41210b25dc4b6feaad35c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 23:33:42</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</application>
+        <file_path/>
+        <instance_id>24279c7f1b250ad8168f4089bd4bcb9e</instance_id>
+        <instance_name>dev261579</instance_name>
+        <name>sys_app_module_fd4b1ad383f41210b25dc4b6feaad35c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Goto Service Request">d1f916df83b41210b25dc4b6feaad34f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1138634_goto_s_0_request</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-27 21:06:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fd4b1ad383f41210b25dc4b6feaad35c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package><sys_policy/><sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope><sys_update_name>sys_app_module_fd4b1ad383f41210b25dc4b6feaad35c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-27 23:33:42</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2132291562</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>87b6571683745210b25dc4b6feaad368</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 23:33:42</sys_created_on>
+        <sys_id>796d3a9f83781210b25dc4b6feaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19235d545fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 23:33:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fd6d3a9f7d781210d25a219c7978d11b</update_guid>
+        <update_guid_history>fd6d3a9f7d781210d25a219c7978d11b:-2132291562,b56c1e1775f41210a2f62baa6081ec7d:-1673588148,915cda5750f412102b589d33ff6f16fb:1926063822,88db965766f412103aff31c29a9336da:821553163,6dab9e1716f41210faef0cc51830cede:-1673588148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">5b5fba1383b81210b25dc4b6feaad31f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 23:42:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>156801f1aa4242a091b8d3cfbc6d6900</sys_id>
+        <sys_metadata>fd4b1ad383f41210b25dc4b6feaad35c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1138634_goto_s_0_request</sys_name>
+        <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
+        <sys_scope_delete display_value="">840cf5fc05874fa48992790fbc824ba4</sys_scope_delete>
+        <sys_update_name>sys_app_module_fd4b1ad383f41210b25dc4b6feaad35c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fd4b1ad383f41210b25dc4b6feaad35c">796d3a9f83781210b25dc4b6feaad31c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 23:42:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
