@@ -1,3 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="f8025dda83b81210b25dc4b6feaad37d" extends="sn_creatorstudio_task" label="Goto Servicing Request" max_length="40" name="x_1138634_goto_s_0_request" type="collection"/>
+    <element audit="true" db_object_id="f8025dda83b81210b25dc4b6feaad37d" extends="sn_creatorstudio_task" label="Goto Servicing Request" max_length="40" name="x_1138634_goto_s_0_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service type" max_length="40" name="service_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Computer" sequence="0" value="cmdb_ci_computer"/>
+                <element inactive="true" inactive_on_update="true" label="Electrical Repairs" sequence="2" value="electrical repairs"/>
+                <element inactive_on_update="false" label="Phones" sequence="1" value="cmdb_ci_phones"/>
+                <element inactive_on_update="false" label="Refrigerator" sequence="3" value="cmdb_ci_refrigerator"/>
+                <element inactive_on_update="false" label="Electrical Panel" sequence="5" value="cmdb_ci_electrical_panel"/>
+                <element inactive="true" inactive_on_update="true" label="Technical Repairs" sequence="0" value="technical repairs"/>
+                <element inactive="true" inactive_on_update="true" label="Home Appliances" sequence="1" value="home appliances"/>
+                <element inactive_on_update="false" label="Washing Machine" sequence="2" value="cmdb_ci_washing_machine"/>
+                <element inactive_on_update="false" label="Wiring" sequence="4" value="cmdb_ci_wiring"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Opened" max_length="40" name="open" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="end_date" type="glide_date_time"/>
+    </element>
 </database>

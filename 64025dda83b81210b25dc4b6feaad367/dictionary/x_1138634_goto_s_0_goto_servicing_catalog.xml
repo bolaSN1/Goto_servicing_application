@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f9bbc6df83741210b25dc4b6feaad300" label="Goto Servicing task" max_length="40" name="x_1138634_goto_s_0_goto_servicing_catalog" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Service Name" mandatory="true" max_length="40" name="service_name" type="choice">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service type" mandatory="true" max_length="40" name="service_name" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Computer Repair" sequence="1" value="Computer Repair"/>
-                <element inactive_on_update="false" label="Electrical Panel Repair" sequence="5" value="Electrical Panel Repair"/>
-                <element inactive_on_update="false" label="Refrigerator Repair" sequence="3" value="Refrigerator Repair"/>
-                <element inactive_on_update="false" label="Phone Repair" sequence="0" value="Phone Repair"/>
-                <element inactive_on_update="false" label="Wiring Installation" sequence="4" value="Wiring Installation"/>
-                <element inactive_on_update="false" label="Washing Machine Repair" sequence="2" value="Washing Machine Repair"/>
+                <element inactive_on_update="false" label="Computer Repair" sequence="1" value="computer repair"/>
+                <element inactive_on_update="false" label="Electrical Panel Repair" sequence="5" value="electrical panel repair"/>
+                <element inactive_on_update="false" label="Refrigerator Repair" sequence="3" value="refrigerator repair"/>
+                <element inactive_on_update="false" label="Phone Repair" sequence="0" value="phone repair"/>
+                <element inactive_on_update="false" label="Wiring Installation" sequence="4" value="wiring installation"/>
+                <element inactive_on_update="false" label="Washing Machine Repair" sequence="2" value="washing machine repair"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="pending" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Incomplete" sequence="2" value="incomplete"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
             </choice>
         </element>
         <element label="Description" mandatory="true" max_length="40" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assign to" max_length="40" name="assign_to" reference="sys_user" type="reference"/>
         <element choice="1" label="Price Range (USD)" max_length="40" name="price_range_usd" type="string">
             <choice>
-                <element inactive_on_update="false" label="100-300" sequence="1" value="100-300"/>
-                <element inactive_on_update="false" label="200-500" sequence="3" value="200-500"/>
                 <element inactive_on_update="false" label="300-600" sequence="4" value="300-600"/>
                 <element inactive_on_update="false" label="150-400" sequence="2" value="150-400"/>
                 <element inactive_on_update="false" label="50-200" sequence="0" value="50-200"/>
+                <element inactive_on_update="false" label="200-500" sequence="3" value="200-500"/>
+                <element inactive_on_update="false" label="100-300" sequence="1" value="100-300"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Created by" mandatory="true" max_length="32" name="created_by" reference="sys_user" type="reference"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Work Order" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Home Appliances" sequence="1" value="Home Appliances"/>
-                <element inactive_on_update="false" label="Electrical Repair" sequence="2" value="Electrical Repair"/>
-                <element inactive_on_update="false" label="Technical Repair" sequence="0" value="Technical Repair"/>
+                <element inactive="true" inactive_on_update="true" label="Electrical Repair" sequence="1" value="Electrical Repair"/>
+                <element inactive_on_update="false" label="Technical" sequence="0" value="technical"/>
+                <element inactive_on_update="false" label="Electrical" sequence="2" value="electrical"/>
+                <element inactive="true" inactive_on_update="true" label="Technical Repair" sequence="0" value="Technical Repair"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Updated by" mandatory="true" max_length="32" name="updated_by" reference="sys_user" type="reference"/>

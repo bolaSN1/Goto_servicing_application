@@ -30,7 +30,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Goto Servicing.</name>
+        <name>Goto Servicing</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -88,14 +88,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-24 13:16:55</sys_created_on>
         <sys_id>65731d5e83b81210b25dc4b6feaad347</sys_id>
-        <sys_mod_count>13</sys_mod_count>
-        <sys_name>Goto Servicing.</sys_name>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Goto Servicing</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
         <sys_update_name>sc_cat_item_producer_65731d5e83b81210b25dc4b6feaad347</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-24 20:29:14</sys_updated_on>
+        <sys_updated_on>2024-09-27 17:18:41</sys_updated_on>
         <table_name>x_1138634_goto_s_0_request</table_name>
         <taxonomy_topic/>
         <template/>
@@ -103,7 +103,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>8</version>
+        <version>12</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -123,9 +123,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-24 13:16:55</sys_created_on>
         <sys_id>ca731d5e83b81210b25dc4b6feaad381</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-24 15:14:35</sys_updated_on>
+        <sys_updated_on>2024-09-27 17:18:41</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>

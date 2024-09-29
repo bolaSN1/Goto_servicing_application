@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Work Order</column_label>
+        <column_label>Number</column_label>
         <comments/>
         <create_roles/>
         <default_value>javascript:global.getNextObjNumberPadded();</default_value>
@@ -52,13 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-27 20:00:23</sys_created_on>
-        <sys_name>Work Order</sys_name>
+        <sys_name>Number</sys_name>
         <sys_package display_value="Goto Servicing" source="x_1138634_goto_s_0">64025dda83b81210b25dc4b6feaad367</sys_package>
         <sys_policy/>
         <sys_scope display_value="Goto Servicing">64025dda83b81210b25dc4b6feaad367</sys_scope>
         <sys_update_name>sys_dictionary_x_1138634_goto_s_0_goto_servicing_catalog_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-28 00:44:49</sys_updated_on>
+        <sys_updated_on>2024-09-28 12:52:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
